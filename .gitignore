@@ -1,0 +1,5 @@
+*.mp4
+/bin/
+/build/
+*.class
+
