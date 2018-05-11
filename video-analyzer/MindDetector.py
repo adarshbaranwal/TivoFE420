@@ -81,3 +81,9 @@ class DetectIntro:
             
         return data
 
+# Enter song path
+# the_office = DetectIntro("TheOfficeIntroSong.wav")
+
+# Enter episode path
+# the_office.input_episode('Office_episode1.mp4')
+# ep_data = the_office.detect(0, 5000)
